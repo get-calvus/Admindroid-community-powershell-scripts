@@ -7,7 +7,7 @@ Script by:      AdminDroid Team
 
 For detailed Script execution: https://blog.admindroid.com/automate-microsoft-365-user-offboarding-with-powershell
 ==============================================================================================
-
+#>
 param(
 [string]$TenantId,
 [string]$ClientId,
